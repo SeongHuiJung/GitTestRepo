@@ -1,6 +1,2 @@
-test!
-test2
-
-
 코드 리뷰는 언제나 재밌어
-친구들 모여라
+test! conflict 가 났겠죠?
